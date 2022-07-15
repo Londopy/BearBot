@@ -1,0 +1,7 @@
+1. Run, 'setup.bat'
+
+2. Run, 'invite bot.py'
+
+3. Run, 'Runbearbot.py'
+
+3. Done!
