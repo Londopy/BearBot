@@ -9,3 +9,5 @@
 3. Done!
 
 # You have to re-run, 'Runbearbot.py' before every session
+
+![Bearbot profile](https://user-images.githubusercontent.com/109172537/179150539-7c6bb102-a7d8-406b-9f16-a7136d7594c0.jpeg)
